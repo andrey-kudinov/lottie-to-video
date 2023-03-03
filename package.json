@@ -1,0 +1,15 @@
+{
+  "name": "lottie-to-video",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ffmpeg": "^0.0.4",
+    "puppeteer-lottie-cli": "^1.0.9"
+  }
+}
